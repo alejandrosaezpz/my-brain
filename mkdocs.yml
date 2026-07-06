@@ -1,5 +1,5 @@
-site_name: my-brain
-site_description: Personal knowledge base for languages, cloud, systems, and interview notes.
+site_name: My Brain
+site_description: Personal knowledge base for programming languages and interview notes.
 site_url: https://alejandrosaezpz.github.io/my-brain/
 repo_name: alejandrosaezpz/my-brain
 repo_url: https://github.com/alejandrosaezpz/my-brain
@@ -16,15 +16,6 @@ theme:
     - scheme: default
       primary: black
       accent: red
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - scheme: slate
-      primary: black
-      accent: red
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
   font:
     text: Inter
     code: JetBrains Mono

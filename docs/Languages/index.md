@@ -17,34 +17,18 @@ This section groups notes by programming language.
     <p>Docs-only JavaScript notes for syntax, browser APIs, async code, and interview prep.</p>
     <p><a href="JavaScript/">Open JavaScript →</a></p>
   </div>
-  <div class="jp-card">
-    <h3>Next up</h3>
-    <p>C#, Python, and any other language notes you want to add later.</p>
-  </div>
-</div>
-
-## Quick links
-
-<div class="jp-section jp-card-grid">
-  <div class="jp-card">
-    <h3>Java overview</h3>
-    <p>Jump into the full Java knowledge section.</p>
-    <p><a href="Java/">Open page →</a></p>
-  </div>
-  <div class="jp-card">
-    <h3>JavaScript overview</h3>
-    <p>Jump into the full JavaScript knowledge section.</p>
-    <p><a href="JavaScript/">Open page →</a></p>
-  </div>
-  <div class="jp-card">
-    <h3>Home</h3>
-    <p>Return to the top-level my-brain landing page.</p>
-    <p><a href="../">Go home →</a></p>
-  </div>
 </div>
 
 ## Notes
 
 - keep one landing page per language
-- add new language folders as the brain grows
+- use the sidebar for the full topic tree
 - link back to the home page when useful
+
+<div class="jp-section jp-card-grid">
+  <div class="jp-card">
+    <h3>Back home</h3>
+    <p>Return to the top-level My Brain landing page.</p>
+    <p><a href="../">Go home →</a></p>
+  </div>
+</div>

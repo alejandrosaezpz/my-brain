@@ -1,35 +1,35 @@
 <div class="jp-hero">
-  <span class="jp-hero__eyebrow">Programming notes • Language references • Personal knowledge base</span>
-  <h1 class="jp-hero__title">my-brain</h1>
+  <span class="jp-hero__eyebrow">Second brain • Programming notes • Personal knowledge base</span>
+  <h1 class="jp-hero__title">My Brain</h1>
   <p class="jp-hero__text">
     A living knowledge base for programming languages, interview notes, patterns, and practical reference material.
   </p>
 
   <div class="jp-actions">
-    <a class="jp-button jp-button--primary" href="Languages/">Browse languages</a>
-    <a class="jp-button jp-button--secondary" href="https://github.com/alejandrosaezpz/my-brain/blob/main/roadmap.md">Open roadmap</a>
-    <a class="jp-button jp-button--secondary" href="https://github.com/alejandrosaezpz/my-brain">View repo</a>
+    <a class="jp-button jp-button--primary" href="Languages/">Browse Languages</a>
+    <a class="jp-button jp-button--secondary" href="Languages/Java/">Open Java</a>
+    <a class="jp-button jp-button--secondary" href="Languages/JavaScript/">Open JavaScript</a>
   </div>
 
   <div class="jp-badge-row">
     <span class="jp-pill">Structured notes</span>
     <span class="jp-pill">Original explanations</span>
-    <span class="jp-pill">Expandable sections</span>
     <span class="jp-pill">Interview-friendly</span>
+    <span class="jp-pill">Living repository</span>
   </div>
 
   <div class="jp-metrics">
     <div class="jp-metric">
       <span class="jp-metric__value">2</span>
-      <span class="jp-metric__label">languages live</span>
+      <span class="jp-metric__label">languages available</span>
     </div>
     <div class="jp-metric">
-      <span class="jp-metric__value">42</span>
-      <span class="jp-metric__label">language pages</span>
+      <span class="jp-metric__value">3</span>
+      <span class="jp-metric__label">entry points</span>
     </div>
     <div class="jp-metric">
       <span class="jp-metric__value">2</span>
-      <span class="jp-metric__label">language hubs</span>
+      <span class="jp-metric__label">main study tracks</span>
     </div>
     <div class="jp-metric">
       <span class="jp-metric__value">1</span>
@@ -38,7 +38,7 @@
   </div>
 </div>
 
-## Start here
+## Global sections
 
 <div class="jp-section jp-card-grid">
   <div class="jp-card">
@@ -48,30 +48,22 @@
   </div>
   <div class="jp-card">
     <h3>Java</h3>
-    <p>The current main knowledge area, now organized as a subsection inside Languages.</p>
+    <p>The main Java study track, organized inside Languages with a full topic tree on the left.</p>
     <p><a href="Languages/Java/">Open section →</a></p>
   </div>
   <div class="jp-card">
     <h3>JavaScript</h3>
-    <p>The new docs-only section for syntax, arrays, async, DOM, and interview prep.</p>
+    <p>JavaScript fundamentals, browser behavior, async patterns, and interview prep.</p>
     <p><a href="Languages/JavaScript/">Open section →</a></p>
-  </div>
-  <div class="jp-card">
-    <h3>Cheatsheets</h3>
-    <p>Compact reference material for quick lookup while studying.</p>
-    <p><a href="Languages/Java/24-java-interview-cheat-sheet/">Java Interview Cheat Sheet →</a></p>
-    <p><a href="Languages/JavaScript/13-javascript-cheat-sheet/">JavaScript Interview Cheat Sheet →</a></p>
   </div>
 </div>
 
-## Quick links
+## How to use this brain
 
-- [Roadmap](https://github.com/alejandrosaezpz/my-brain/blob/main/roadmap.md)
-- [Specification](https://github.com/alejandrosaezpz/my-brain/blob/main/SPEC.md)
-- [Style Guide](https://github.com/alejandrosaezpz/my-brain/blob/main/STYLE_GUIDE.md)
-- [Contributing](https://github.com/alejandrosaezpz/my-brain/blob/main/CONTRIBUTING.md)
-- [Complexity Cheat Sheet](Languages/Java/complexity-cheatsheet.md)
-- [JavaScript Interview Cheat Sheet](Languages/JavaScript/13-javascript-cheat-sheet.md)
+1. Start at the home page.
+2. Open a global section such as **Languages**.
+3. Use the left sidebar inside each language to move through the full topic tree.
+4. Read the selected page on the right.
 
 ## What you’ll find here
 
@@ -79,4 +71,4 @@
 - language notes
 - practical reference pages
 - interview patterns and cheat sheets
-- expandable sections for future domains
+- a clean second-brain layout
