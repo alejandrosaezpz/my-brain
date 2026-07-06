@@ -54,12 +54,12 @@
   <div class="jp-card">
     <h3>Patterns</h3>
     <p>Practical pattern recognition and interview shortcuts.</p>
-    <p><a href="Languages/Java/23-interview-patterns.md">Open page →</a></p>
+    <p><a href="Languages/Java/23-interview-patterns/">Open page →</a></p>
   </div>
   <div class="jp-card">
     <h3>Cheatsheets</h3>
     <p>Compact reference material for quick lookup while studying.</p>
-    <p><a href="Languages/Java/24-java-interview-cheat-sheet.md">Open page →</a></p>
+    <p><a href="Languages/Java/24-java-interview-cheat-sheet/">Open page →</a></p>
   </div>
 </div>
 
