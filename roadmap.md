@@ -1,6 +1,6 @@
 # Study roadmap
 
-This roadmap defines the learning path and the first implementation phase.
+This roadmap defines the Java section inside `my-brain`.
 
 | # | Topic | Goal | Why it matters | Key Java tools/classes | Recommended problems | Suggested order | Difficulty |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -26,3 +26,15 @@ This roadmap defines the learning path and the first implementation phase.
 | 20 | Bit Manipulation | Work directly with bits and masks | Useful for compact reasoning | Bitwise operators `&`, `|`, `^`, `<<`, `>>` | Single number, bit counting | 20 | Medium |
 | 21 | Greedy | Make local choices with proof | Useful when optimal substructure is simple | Sorting, heaps, intervals | Interval scheduling, stock variants | 21 | Medium |
 | 22 | Mock Assessments | Practice mixed review under time pressure | Simulates real interview conditions | All prior tools | Mixed-topic review sets | 22 | Mixed |
+
+## Supplemental reference pages
+
+| Page | Goal | Notes |
+| --- | --- | --- |
+| Interview Patterns | Map problem wording to the right technique | Quick interview recognition guide |
+| Java Interview Cheat Sheet | Keep common Java APIs close at hand | Compact syntax and examples |
+| Complexity Cheat Sheet | Keep Big O and data structure costs visible | Quick lookup page |
+
+## Documentation status note
+
+The docs site now includes expanded pages for Sorting, Binary Search, and Heap & PriorityQueue, plus the three supplemental pages above, all under `Languages/Java`.

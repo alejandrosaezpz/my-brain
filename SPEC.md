@@ -2,11 +2,11 @@
 
 ## Purpose
 
-Create a clean Java 21 interview-prep repository that combines theory, problem patterns, original explanations, Java solutions, and JUnit 5 tests.
+Create a clean personal knowledge base that combines language notes, problem patterns, original explanations, Java solutions, and JUnit 5 tests.
 
 ## Topic list
 
-The repository has 22 final topics:
+The repository has 22 core Java topics inside `Languages/Java`:
 
 1. Java Basics
 2. Big O
@@ -31,9 +31,18 @@ The repository has 22 final topics:
 21. Greedy
 22. Mock Assessments
 
+## Supplemental reference pages
+
+These pages sit alongside the 22 core topics and are not counted as topics:
+
+- Interview Patterns
+- Java Interview Cheat Sheet
+- Complexity Cheat Sheet
+
 ## Folder structure rules
 
-- Keep Markdown docs in `docs/` using numbered filenames.
+- Keep Markdown docs in `docs/` using numbered filenames, grouped under section folders.
+- Use `index.md` landing pages at each section root.
 - Keep reusable templates in `templates/`.
 - Keep problem explanations in `problems/` by platform and topic.
 - Keep Java solutions in `src/main/java/` using lowercase package names.
@@ -42,7 +51,8 @@ The repository has 22 final topics:
 
 ## Documentation rules
 
-- Every topic documentation file must follow the same structure.
+- Every topic documentation file should follow the same structure within a section.
+- Reference pages may use a lighter structure, but they should still stay concise and easy to scan.
 - Write short, original explanations.
 - Start with the technical idea before showing Java.
 - Include a table for methods or operations when relevant.

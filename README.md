@@ -1,8 +1,8 @@
-# Java Interview Prep
+# my-brain
 
-Java 21 interview practice repo with focused theory, original explanations, reusable templates, and curated starter problems.
+Personal knowledge base for programming languages, interview notes, and practical reference pages.
 
-Phase 1 includes fully written docs for topics 01-07 and 17 starter problems across arrays, strings, hash maps/sets, collections, and stack/queue practice.
+The current main section is Java, which includes the original interview-prep content, now reorganized under `Languages/Java`.
 
 ## Badges
 
@@ -29,16 +29,15 @@ Phase 1 includes fully written docs for topics 01-07 and 17 starter problems acr
 
 ## What this repository is
 
-A clean study repository for interview prep in Java.
+A clean study repository for building a personal knowledge base.
 
 It combines:
 
-- technical Java documentation
+- language notes
 - data structures and algorithms theory
 - interview patterns
-- original problem summaries
-- Java solutions
-- JUnit 5 tests
+- original reference pages
+- Java solutions and tests
 - a consistent GitHub-friendly writing style
 
 ## Who this repository is for
@@ -71,6 +70,8 @@ This repository can also be published as a GitHub Pages site with MkDocs.
 - source: `docs/`
 - config: `mkdocs.yml`
 - deploy workflow: `.github/workflows/pages.yml`
+- site name: `my-brain`
+- main documentation area: `Languages/Java`
 
 When Pages is enabled, the site will present the topic docs in a browsable format.
 
@@ -94,21 +95,29 @@ When Pages is enabled, the site will present the topic docs in a browsable forma
 | 05 | HashMap & HashSet | Frequency maps and lookup patterns | ✅ docs + starter problems |
 | 06 | ArrayList & Java Collections | List operations and utility classes | ✅ docs + starter problems |
 | 07 | Stack, Queue & Deque | LIFO/FIFO and monotonic-style thinking | ✅ docs + starter problems |
-| 08 | Sorting | Comparison and non-comparison sorting | 🟡 template ready |
+| 08 | Sorting | Comparison and non-comparison sorting | ✅ docs ready |
 | 09 | Two Pointers | Paired traversal patterns | 🟡 template ready |
 | 10 | Sliding Window | Subarray and substring windows | 🟡 template ready |
 | 11 | Prefix Sum | Range sum and transforms | 🟡 template ready |
-| 12 | Binary Search | Search on sorted or monotonic space | 🟡 template ready |
+| 12 | Binary Search | Search on sorted or monotonic space | ✅ docs ready |
 | 13 | Recursion | Base cases and decomposition | 🟡 template ready |
 | 14 | Linked List | Pointer manipulation | 🟡 template ready |
 | 15 | Trees | DFS, BFS, and tree recursion | 🟡 template ready |
-| 16 | Heap & PriorityQueue | Top-k and scheduling patterns | 🟡 template ready |
+| 16 | Heap & PriorityQueue | Top-k and scheduling patterns | ✅ docs ready |
 | 17 | Graphs | Traversal, connectivity, and search | 🟡 template ready |
 | 18 | Backtracking | Search with pruning | 🟡 template ready |
 | 19 | Dynamic Programming | Reuse subproblems | 🟡 template ready |
 | 20 | Bit Manipulation | Bitwise reasoning | 🟡 template ready |
 | 21 | Greedy | Local decisions with proof ideas | 🟡 template ready |
 | 22 | Mock Assessments | Mixed practice and review | 🟡 template ready |
+
+## Reference pages
+
+| Page | Purpose | Status |
+| --- | --- | --- |
+| Interview Patterns | Pattern recognition and technique mapping | ✅ docs ready |
+| Java Interview Cheat Sheet | Common Java methods used in interviews | ✅ docs ready |
+| Complexity Cheat Sheet | Quick Big O and data structure reference | ✅ docs ready |
 
 ## Repository status
 
@@ -121,15 +130,15 @@ When Pages is enabled, the site will present the topic docs in a browsable forma
 | HashMap & HashSet | Complete | Complete (4) | Complete | Easy-Medium |
 | ArrayList & Java Collections | Complete | Complete (2) | Complete | Easy-Medium |
 | Stack, Queue & Deque | Complete | Complete (2) | Complete | Easy-Medium |
-| Sorting | Template only | Not started | Not started | Easy-Medium |
+| Sorting | Complete | Not started | Not started | Easy-Medium |
 | Two Pointers | Template only | Not started | Not started | Easy-Medium |
 | Sliding Window | Template only | Not started | Not started | Medium |
 | Prefix Sum | Template only | Not started | Not started | Easy-Medium |
-| Binary Search | Template only | Not started | Not started | Medium |
+| Binary Search | Complete | Not started | Not started | Medium |
 | Recursion | Template only | Not started | Not started | Medium |
 | Linked List | Template only | Not started | Not started | Medium |
 | Trees | Template only | Not started | Not started | Medium |
-| Heap & PriorityQueue | Template only | Not started | Not started | Medium |
+| Heap & PriorityQueue | Complete | Not started | Not started | Medium |
 | Graphs | Template only | Not started | Not started | Medium-Hard |
 | Backtracking | Template only | Not started | Not started | Medium-Hard |
 | Dynamic Programming | Template only | Not started | Not started | Hard |
@@ -164,17 +173,22 @@ roadmap.md
 SPEC.md
 STYLE_GUIDE.md
 CONTRIBUTING.md
-complexity-cheatsheet.md
 
 templates/
   DOC_TEMPLATE.md
   PROBLEM_TEMPLATE.md
 
 docs/
-  01-java-basics.md
-  02-big-o.md
-  03-arrays.md
-  ...
+  index.md
+  Languages/
+    index.md
+    Java/
+      index.md
+      01-java-basics.md
+      02-big-o.md
+      03-arrays.md
+      ...
+      complexity-cheatsheet.md
 
 problems/
   leetcode/

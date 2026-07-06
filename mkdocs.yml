@@ -1,8 +1,8 @@
-site_name: Java Interview Prep
-site_description: Java 21 interview prep notes, patterns, and practice problems.
-site_url: https://alejandrosaezpz.github.io/java-interview-prep/
-repo_name: alejandrosaezpz/java-interview-prep
-repo_url: https://github.com/alejandrosaezpz/java-interview-prep
+site_name: my-brain
+site_description: Personal knowledge base for languages, cloud, systems, and interview notes.
+site_url: https://alejandrosaezpz.github.io/my-brain/
+repo_name: alejandrosaezpz/my-brain
+repo_url: https://github.com/alejandrosaezpz/my-brain
 
 theme:
   name: material
@@ -45,34 +45,40 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/alejandrosaezpz/java-interview-prep
+      link: https://github.com/alejandrosaezpz/my-brain
       name: GitHub repository
 
 nav:
   - Home: index.md
-  - Topics:
-      - 01. Java Basics: 01-java-basics.md
-      - 02. Big O: 02-big-o.md
-      - 03. Arrays: 03-arrays.md
-      - 04. Strings: 04-strings.md
-      - 05. HashMap & HashSet: 05-hashmap-hashset.md
-      - 06. ArrayList & Java Collections: 06-arraylist-java-collections.md
-      - 07. Stack, Queue & Deque: 07-stack-queue-deque.md
-      - 08. Sorting: 08-sorting.md
-      - 09. Two Pointers: 09-two-pointers.md
-      - 10. Sliding Window: 10-sliding-window.md
-      - 11. Prefix Sum: 11-prefix-sum.md
-      - 12. Binary Search: 12-binary-search.md
-      - 13. Recursion: 13-recursion.md
-      - 14. Linked List: 14-linked-list.md
-      - 15. Trees: 15-trees.md
-      - 16. Heap & PriorityQueue: 16-heap-priorityqueue.md
-      - 17. Graphs: 17-graphs.md
-      - 18. Backtracking: 18-backtracking.md
-      - 19. Dynamic Programming: 19-dynamic-programming.md
-      - 20. Bit Manipulation: 20-bit-manipulation.md
-      - 21. Greedy: 21-greedy.md
-      - 22. Mock Assessments: 22-mock-assessments.md
+  - Languages:
+      - Languages overview: Languages/index.md
+      - Java:
+          - Java overview: Languages/Java/index.md
+          - 01. Java Basics: Languages/Java/01-java-basics.md
+          - 02. Big O: Languages/Java/02-big-o.md
+          - 03. Arrays: Languages/Java/03-arrays.md
+          - 04. Strings: Languages/Java/04-strings.md
+          - 05. HashMap & HashSet: Languages/Java/05-hashmap-hashset.md
+          - 06. ArrayList & Java Collections: Languages/Java/06-arraylist-java-collections.md
+          - 07. Stack, Queue & Deque: Languages/Java/07-stack-queue-deque.md
+          - 08. Sorting: Languages/Java/08-sorting.md
+          - 09. Two Pointers: Languages/Java/09-two-pointers.md
+          - 10. Sliding Window: Languages/Java/10-sliding-window.md
+          - 11. Prefix Sum: Languages/Java/11-prefix-sum.md
+          - 12. Binary Search: Languages/Java/12-binary-search.md
+          - 13. Recursion: Languages/Java/13-recursion.md
+          - 14. Linked List: Languages/Java/14-linked-list.md
+          - 15. Trees: Languages/Java/15-trees.md
+          - 16. Heap & PriorityQueue: Languages/Java/16-heap-priorityqueue.md
+          - 17. Graphs: Languages/Java/17-graphs.md
+          - 18. Backtracking: Languages/Java/18-backtracking.md
+          - 19. Dynamic Programming: Languages/Java/19-dynamic-programming.md
+          - 20. Bit Manipulation: Languages/Java/20-bit-manipulation.md
+          - 21. Greedy: Languages/Java/21-greedy.md
+          - 22. Mock Assessments: Languages/Java/22-mock-assessments.md
+          - 23. Interview Patterns: Languages/Java/23-interview-patterns.md
+          - 24. Java Interview Cheat Sheet: Languages/Java/24-java-interview-cheat-sheet.md
+          - Complexity Cheat Sheet: Languages/Java/complexity-cheatsheet.md
 
 plugins:
   - search
