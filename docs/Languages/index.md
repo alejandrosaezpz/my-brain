@@ -18,6 +18,21 @@ This section groups notes by programming language.
   </div>
 </div>
 
+## Quick links
+
+<div class="jp-section jp-card-grid">
+  <div class="jp-card">
+    <h3>Java overview</h3>
+    <p>Jump into the full Java knowledge section.</p>
+    <p><a href="Java/">Open page →</a></p>
+  </div>
+  <div class="jp-card">
+    <h3>Home</h3>
+    <p>Return to the top-level my-brain landing page.</p>
+    <p><a href="../">Go home →</a></p>
+  </div>
+</div>
+
 ## Notes
 
 - keep one landing page per language

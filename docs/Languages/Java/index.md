@@ -15,6 +15,25 @@ All Java notes now live under this section.
     <h3>Interview notes</h3>
     <p>Patterns, cheat sheets, and practical reminders for coding interviews.</p>
   </div>
+  <div class="jp-card">
+    <h3>Reference</h3>
+    <p>Big O tables, interview patterns, and Java method cheat sheets in one place.</p>
+  </div>
+</div>
+
+## Quick actions
+
+<div class="jp-section jp-card-grid">
+  <div class="jp-card">
+    <h3>Browse all pages</h3>
+    <p>Open the full Java library below.</p>
+    <p><a href="#pages">Jump to pages →</a></p>
+  </div>
+  <div class="jp-card">
+    <h3>Back to Languages</h3>
+    <p>Go up one level to the language hub.</p>
+    <p><a href="../">Go back →</a></p>
+  </div>
 </div>
 
 ## Pages

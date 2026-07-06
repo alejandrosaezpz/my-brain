@@ -38,7 +38,7 @@
   </div>
 </div>
 
-## Current focus
+## Start here
 
 <div class="jp-section jp-card-grid">
   <div class="jp-card">
@@ -51,41 +51,15 @@
     <p>The current main knowledge area, now organized as a subsection inside Languages.</p>
     <p><a href="Languages/Java/">Open section →</a></p>
   </div>
-</div>
-
-## Study path
-
-<div class="jp-section jp-card-grid">
   <div class="jp-card">
-    <h3>1. Learn the language</h3>
-    <p>Start with syntax, core APIs, and common interview utilities.</p>
+    <h3>Patterns</h3>
+    <p>Practical pattern recognition and interview shortcuts.</p>
+    <p><a href="Languages/Java/23-interview-patterns/">Open page →</a></p>
   </div>
   <div class="jp-card">
-    <h3>2. Expand by area</h3>
-    <p>Add backend, cloud, frontend, or other domains as the brain grows.</p>
-  </div>
-  <div class="jp-card">
-    <h3>3. Practice patterns</h3>
-    <p>Keep recurring problem patterns and cheatsheets close to the language notes.</p>
-  </div>
-  <div class="jp-card">
-    <h3>4. Keep it evolving</h3>
-    <p>Capture new learning as small, linked pages instead of large monoliths.</p>
-  </div>
-</div>
-
-## Start here
-
-<div class="jp-section jp-card-grid">
-  <div class="jp-card">
-    <h3>Languages</h3>
-    <p>The top-level bucket for programming language notes.</p>
-    <p><a href="Languages/">Open section →</a></p>
-  </div>
-  <div class="jp-card">
-    <h3>Java</h3>
-    <p>All current Java notes, patterns, and cheat sheets live here.</p>
-    <p><a href="Languages/Java/">Open section →</a></p>
+    <h3>Cheatsheets</h3>
+    <p>Compact reference material for quick lookup while studying.</p>
+    <p><a href="Languages/Java/24-java-interview-cheat-sheet/">Open page →</a></p>
   </div>
 </div>
 
