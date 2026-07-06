@@ -79,6 +79,25 @@ nav:
           - 23. Interview Patterns: Languages/Java/23-interview-patterns.md
           - 24. Java Interview Cheat Sheet: Languages/Java/24-java-interview-cheat-sheet.md
           - Complexity Cheat Sheet: Languages/Java/complexity-cheatsheet.md
+      - JavaScript:
+          - JavaScript overview: Languages/JavaScript/index.md
+          - 01. Introduction: Languages/JavaScript/01-introduction.md
+          - 02. Syntax & Fundamentals: Languages/JavaScript/02-syntax-fundamentals.md
+          - 03. Arrays: Languages/JavaScript/03-arrays.md
+          - 04. Objects: Languages/JavaScript/04-objects.md
+          - 05. Strings: Languages/JavaScript/05-strings.md
+          - 06. Map & Set: Languages/JavaScript/06-map-set.md
+          - 07. Functions: Languages/JavaScript/07-functions.md
+          - 08. Asynchronous JavaScript: Languages/JavaScript/08-asynchronous-javascript.md
+          - 09. DOM: Languages/JavaScript/09-dom.md
+          - 10. JSON: Languages/JavaScript/10-json.md
+          - 11. Error Handling: Languages/JavaScript/11-error-handling.md
+          - 12. ES6+: Languages/JavaScript/12-es6-plus.md
+          - 13. JavaScript Interview Cheat Sheet: Languages/JavaScript/13-javascript-cheat-sheet.md
+          - 14. JavaScript Interview Patterns: Languages/JavaScript/14-javascript-interview-patterns.md
+          - 15. JavaScript Coding Assessments: Languages/JavaScript/15-javascript-coding-assessments.md
+          - 16. Frontend Foundations: Languages/JavaScript/16-frontend-foundations.md
+          - 17. JavaScript vs Java: Languages/JavaScript/17-javascript-vs-java.md
 
 plugins:
   - search

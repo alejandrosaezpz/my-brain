@@ -2,11 +2,11 @@
 
 ## Purpose
 
-Create a clean personal knowledge base that combines language notes, problem patterns, original explanations, Java solutions, and JUnit 5 tests.
+Create a clean personal knowledge base that combines language notes, problem patterns, original explanations, Java solutions, JUnit 5 tests, and docs-only JavaScript reference pages.
 
 ## Topic list
 
-The repository has 22 core Java topics inside `Languages/Java`:
+The repository has 22 core Java topics inside `Languages/Java` and a docs-only JavaScript section inside `Languages/JavaScript`:
 
 1. Java Basics
 2. Big O
@@ -38,6 +38,28 @@ These pages sit alongside the 22 core topics and are not counted as topics:
 - Interview Patterns
 - Java Interview Cheat Sheet
 - Complexity Cheat Sheet
+
+## JavaScript docs section
+
+The JavaScript section is documentation-only for now and follows the same concise, interview-oriented style:
+
+- Introduction
+- Syntax & Fundamentals
+- Arrays
+- Objects
+- Strings
+- Map & Set
+- Functions
+- Asynchronous JavaScript
+- DOM
+- JSON
+- Error Handling
+- ES6+
+- JavaScript Interview Cheat Sheet
+- JavaScript Interview Patterns
+- JavaScript Coding Assessments
+- Frontend Foundations
+- JavaScript vs Java
 
 ## Folder structure rules
 

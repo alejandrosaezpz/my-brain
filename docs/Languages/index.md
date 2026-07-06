@@ -13,8 +13,13 @@ This section groups notes by programming language.
     <p><a href="Java/">Open Java →</a></p>
   </div>
   <div class="jp-card">
+    <h3>JavaScript</h3>
+    <p>Docs-only JavaScript notes for syntax, browser APIs, async code, and interview prep.</p>
+    <p><a href="JavaScript/">Open JavaScript →</a></p>
+  </div>
+  <div class="jp-card">
     <h3>Next up</h3>
-    <p>C#, JavaScript, Python, and any other language notes you want to add later.</p>
+    <p>C#, Python, and any other language notes you want to add later.</p>
   </div>
 </div>
 
@@ -25,6 +30,11 @@ This section groups notes by programming language.
     <h3>Java overview</h3>
     <p>Jump into the full Java knowledge section.</p>
     <p><a href="Java/">Open page →</a></p>
+  </div>
+  <div class="jp-card">
+    <h3>JavaScript overview</h3>
+    <p>Jump into the full JavaScript knowledge section.</p>
+    <p><a href="JavaScript/">Open page →</a></p>
   </div>
   <div class="jp-card">
     <h3>Home</h3>

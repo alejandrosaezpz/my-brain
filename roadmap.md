@@ -1,6 +1,6 @@
 # Study roadmap
 
-This roadmap defines the Java section inside `my-brain`.
+This roadmap defines the Java section inside `my-brain`, plus the docs-only JavaScript section.
 
 | # | Topic | Goal | Why it matters | Key Java tools/classes | Recommended problems | Suggested order | Difficulty |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -37,4 +37,4 @@ This roadmap defines the Java section inside `my-brain`.
 
 ## Documentation status note
 
-The docs site now includes expanded pages for Sorting, Binary Search, and Heap & PriorityQueue, plus the three supplemental pages above, all under `Languages/Java`.
+The docs site now includes expanded pages for Sorting, Binary Search, and Heap & PriorityQueue, plus the three supplemental pages above, all under `Languages/Java`. JavaScript notes live under `Languages/JavaScript`.

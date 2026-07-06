@@ -20,16 +20,16 @@
 
   <div class="jp-metrics">
     <div class="jp-metric">
-      <span class="jp-metric__value">1</span>
-      <span class="jp-metric__label">language live</span>
+      <span class="jp-metric__value">2</span>
+      <span class="jp-metric__label">languages live</span>
     </div>
     <div class="jp-metric">
-      <span class="jp-metric__value">25</span>
-      <span class="jp-metric__label">Java pages</span>
+      <span class="jp-metric__value">42</span>
+      <span class="jp-metric__label">language pages</span>
     </div>
     <div class="jp-metric">
-      <span class="jp-metric__value">3</span>
-      <span class="jp-metric__label">supplemental pages</span>
+      <span class="jp-metric__value">2</span>
+      <span class="jp-metric__label">language hubs</span>
     </div>
     <div class="jp-metric">
       <span class="jp-metric__value">1</span>
@@ -52,14 +52,15 @@
     <p><a href="Languages/Java/">Open section →</a></p>
   </div>
   <div class="jp-card">
-    <h3>Patterns</h3>
-    <p>Practical pattern recognition and interview shortcuts.</p>
-    <p><a href="Languages/Java/23-interview-patterns/">Open page →</a></p>
+    <h3>JavaScript</h3>
+    <p>The new docs-only section for syntax, arrays, async, DOM, and interview prep.</p>
+    <p><a href="Languages/JavaScript/">Open section →</a></p>
   </div>
   <div class="jp-card">
     <h3>Cheatsheets</h3>
     <p>Compact reference material for quick lookup while studying.</p>
-    <p><a href="Languages/Java/24-java-interview-cheat-sheet/">Open page →</a></p>
+    <p><a href="Languages/Java/24-java-interview-cheat-sheet/">Java Interview Cheat Sheet →</a></p>
+    <p><a href="Languages/JavaScript/13-javascript-cheat-sheet/">JavaScript Interview Cheat Sheet →</a></p>
   </div>
 </div>
 
@@ -70,6 +71,7 @@
 - [Style Guide](https://github.com/alejandrosaezpz/my-brain/blob/main/STYLE_GUIDE.md)
 - [Contributing](https://github.com/alejandrosaezpz/my-brain/blob/main/CONTRIBUTING.md)
 - [Complexity Cheat Sheet](Languages/Java/complexity-cheatsheet.md)
+- [JavaScript Interview Cheat Sheet](Languages/JavaScript/13-javascript-cheat-sheet.md)
 
 ## What you’ll find here
 

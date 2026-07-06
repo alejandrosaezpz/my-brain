@@ -2,7 +2,7 @@
 
 Personal knowledge base for programming languages, interview notes, and practical reference pages.
 
-The current main section is Java, which includes the original interview-prep content, now reorganized under `Languages/Java`.
+The current main section is Java, and the docs now also include a docs-only JavaScript section under `Languages/JavaScript`.
 
 ## Badges
 
@@ -38,6 +38,7 @@ It combines:
 - interview patterns
 - original reference pages
 - Java solutions and tests
+- JavaScript documentation notes
 - a consistent GitHub-friendly writing style
 
 ## Who this repository is for
@@ -71,14 +72,14 @@ This repository can also be published as a GitHub Pages site with MkDocs.
 - config: `mkdocs.yml`
 - deploy workflow: `.github/workflows/pages.yml`
 - site name: `my-brain`
-- main documentation area: `Languages/Java`
+- main documentation areas: `Languages/Java` and `Languages/JavaScript`
 
 When Pages is enabled, the site will present the topic docs in a browsable format.
 
 ## Study methodology
 
 1. Learn the technical concept.
-2. Review Java syntax and methods.
+2. Review Java or JavaScript syntax and methods.
 3. Understand when to use it in interviews.
 4. Practice selected problems.
 5. Run JUnit tests.
@@ -117,6 +118,7 @@ When Pages is enabled, the site will present the topic docs in a browsable forma
 | --- | --- | --- |
 | Interview Patterns | Pattern recognition and technique mapping | ✅ docs ready |
 | Java Interview Cheat Sheet | Common Java methods used in interviews | ✅ docs ready |
+| JavaScript Interview Cheat Sheet | Common JavaScript syntax and APIs used in interviews | ✅ docs ready |
 | Complexity Cheat Sheet | Quick Big O and data structure reference | ✅ docs ready |
 
 ## Repository status
@@ -182,13 +184,18 @@ docs/
   index.md
   Languages/
     index.md
-    Java/
-      index.md
-      01-java-basics.md
-      02-big-o.md
-      03-arrays.md
-      ...
-      complexity-cheatsheet.md
+      Java/
+        index.md
+        01-java-basics.md
+        02-big-o.md
+        03-arrays.md
+        ...
+        complexity-cheatsheet.md
+      JavaScript/
+        index.md
+        01-introduction.md
+        ...
+        13-javascript-cheat-sheet.md
 
 problems/
   leetcode/
