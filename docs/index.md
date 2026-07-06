@@ -54,12 +54,12 @@
   <div class="jp-card">
     <h3>Patterns</h3>
     <p>Practical pattern recognition and interview shortcuts.</p>
-    <p><a href="Languages/Java/23-interview-patterns/">Open page →</a></p>
+    <p><a href="Languages/Java/23-interview-patterns.md">Open page →</a></p>
   </div>
   <div class="jp-card">
     <h3>Cheatsheets</h3>
     <p>Compact reference material for quick lookup while studying.</p>
-    <p><a href="Languages/Java/24-java-interview-cheat-sheet/">Open page →</a></p>
+    <p><a href="Languages/Java/24-java-interview-cheat-sheet.md">Open page →</a></p>
   </div>
 </div>
 
@@ -69,7 +69,7 @@
 - [Specification](https://github.com/alejandrosaezpz/my-brain/blob/main/SPEC.md)
 - [Style Guide](https://github.com/alejandrosaezpz/my-brain/blob/main/STYLE_GUIDE.md)
 - [Contributing](https://github.com/alejandrosaezpz/my-brain/blob/main/CONTRIBUTING.md)
-- [Complexity Cheat Sheet](Languages/Java/complexity-cheatsheet/)
+- [Complexity Cheat Sheet](Languages/Java/complexity-cheatsheet.md)
 
 ## What you’ll find here
 
