@@ -1,5 +1,5 @@
 site_name: My Brain
-site_description: Personal knowledge base for programming languages and interview notes.
+site_description: Personal knowledge base for programming, interview notes, and English study.
 site_url: https://alejandrosaezpz.github.io/my-brain/
 repo_name: alejandrosaezpz/my-brain
 repo_url: https://github.com/alejandrosaezpz/my-brain
@@ -89,6 +89,16 @@ nav:
           - 15. JavaScript Coding Assessments: Languages/JavaScript/15-javascript-coding-assessments.md
           - 16. Frontend Foundations: Languages/JavaScript/16-frontend-foundations.md
           - 17. JavaScript vs Java: Languages/JavaScript/17-javascript-vs-java.md
+  - English:
+      - English overview: English/index.md
+      - Vocabulario: English/Vocabulario.md
+      - IELTS:
+          - IELTS overview: English/IELTS/index.md
+          - Reading: English/IELTS/reading.md
+          - Listening: English/IELTS/listening.md
+          - Writing: English/IELTS/writing.md
+          - Speaking: English/IELTS/speaking.md
+          - Progress: English/IELTS/progress.md
 
 plugins:
   - search
