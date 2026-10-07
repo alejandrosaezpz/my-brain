@@ -102,6 +102,8 @@ plugins:
   - search
 
 markdown_extensions:
+  - toc:
+      toc_depth: 4
   - admonition
   - attr_list
   - md_in_html
