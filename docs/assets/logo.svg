@@ -1,11 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Java Interview Prep">
-  <defs>
-    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#ef4444"/>
-    </linearGradient>
-  </defs>
-  <rect x="10" y="10" width="108" height="108" rx="26" fill="url(#g)"/>
-  <path d="M38 42h24c10 0 18 8 18 18s-8 18-18 18H54v18H38V42zm16 16v8h8c4 0 6-2 6-4s-2-4-6-4h-8z" fill="#f8fafc"/>
-  <path d="M86 80h8v16h-8z" fill="#fecaca" opacity="0.95"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="My Brain">
+  <g fill="#817bd1" stroke="#d7d4ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5">
+    <path d="M64 18c-6-8-17-9-23-2-9-3-18 3-17 14-9 4-9 15-3 21-5 8-2 17 6 21-3 9 4 17 13 16 6 8 17 7 24 0V18z"/>
+    <path d="M64 18c6-8 17-9 23-2 9-3 18 3 17 14 9 4 9 15 3 21 5 8 2 17-6 21 3 9-4 17-13 16-6 8-17 7-24 0V18z"/>
+  </g>
+  <g fill="none" stroke="#393563" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+    <path d="M64 19v69M43 20c7 4 9 10 6 16M27 34c8-1 13 4 13 11M24 53c8-2 14 3 14 10M31 73c7-3 13 0 15 7M85 20c-7 4-9 10-6 16M101 34c-8-1-13 4-13 11M104 53c-8-2-14 3-14 10M97 73c-7-3-13 0-15 7"/>
+  </g>
 </svg>
