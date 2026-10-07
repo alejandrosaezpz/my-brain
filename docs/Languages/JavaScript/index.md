@@ -33,8 +33,8 @@ Docs-only JavaScript notes for language fundamentals, browser APIs, async code, 
     <p>Open the first pages in the sidebar for syntax, arrays, and core fundamentals.</p>
   </div>
   <div class="jp-card">
-    <h3>Back to Languages</h3>
-    <p>Return to the language hub.</p>
+    <h3>Back to Programming</h3>
+    <p>Return to the Programming hub.</p>
     <p><a href="../">Go back →</a></p>
   </div>
 </div>

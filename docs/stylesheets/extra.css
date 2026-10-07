@@ -1,13 +1,17 @@
 :root {
-  --jp-bg: #ffffff;
+  --md-default-bg-color: #f8f8f6;
+  --md-primary-fg-color: #302d56;
+  --md-primary-fg-color--dark: #262344;
+  --md-accent-fg-color: #5752a3;
+  --jp-bg: #f8f8f6;
   --jp-surface: #ffffff;
-  --jp-surface-strong: #f3f4f6;
-  --jp-border: #e5e7eb;
-  --jp-border-strong: #d1d5db;
-  --jp-text: #111111;
-  --jp-muted: #4b5563;
-  --jp-accent: #dc2626;
-  --jp-accent-soft: rgba(220, 38, 38, 0.1);
+  --jp-surface-strong: #f3f3f1;
+  --jp-border: #e7e6e2;
+  --jp-border-strong: #d5d4d0;
+  --jp-text: #23242b;
+  --jp-muted: #62636c;
+  --jp-accent: #5752a3;
+  --jp-accent-soft: rgba(87, 82, 163, 0.1);
   --jp-shadow: 0 10px 24px rgba(17, 24, 39, 0.05);
 }
 
@@ -26,9 +30,10 @@ body {
   top: 0;
   z-index: 12;
   backdrop-filter: none;
-  background: rgba(255, 255, 255, 0.98);
-  border-bottom: 1px solid var(--jp-border);
-  box-shadow: 0 6px 18px rgba(17, 24, 39, 0.03);
+  background: #302d56;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow: 0 8px 22px rgba(35, 32, 70, 0.2);
+  color: #ffffff;
 }
 
 .md-header__inner {
@@ -43,46 +48,24 @@ body {
 .md-header__title,
 .md-header__topic,
 .md-header__ellipsis {
-  font-weight: 800;
-  letter-spacing: -0.03em;
+  color: #ffffff;
+  font-weight: 750;
+  letter-spacing: -0.025em;
+}
+
+.md-header .md-icon,
+.md-header__button {
+  color: #ffffff;
 }
 
 .md-header__title {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  pointer-events: none;
+  position: static;
+  transform: none;
+  pointer-events: auto;
   max-width: calc(100% - 18rem);
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-}
-
-.md-tabs {
-  position: sticky;
-  top: var(--md-header-height, 3.5rem);
-  z-index: 11;
-  background: rgba(255, 255, 255, 0.98);
-  border-bottom: 1px solid var(--jp-border);
-  box-shadow: 0 6px 18px rgba(17, 24, 39, 0.03);
-}
-
-.md-tabs__link {
-  padding: 0.7rem 1rem;
-  border-radius: 999px;
-  margin: 0.35rem 0.2rem;
-  font-weight: 650;
-}
-
-.md-tabs__link--active,
-.md-tabs__link:hover {
-  background: var(--jp-accent-soft);
-  color: var(--jp-accent);
-}
-
-.md-tabs__item--active .md-tabs__link {
-  background: rgba(220, 38, 38, 0.12);
-  box-shadow: inset 0 0 0 1px rgba(220, 38, 38, 0.18);
 }
 
 .md-main__inner {
@@ -145,7 +128,7 @@ body {
 
 .md-typeset blockquote {
   padding: 1rem 1.1rem;
-  border-left: 4px solid rgba(220, 38, 38, 0.32);
+  border-left: 4px solid rgba(87, 82, 163, 0.32);
   background: #f9fafb;
   border-radius: 0.8rem;
   color: var(--jp-muted);
@@ -210,7 +193,7 @@ body {
 .md-typeset .highlight .sx,
 .md-typeset .highlight .sr,
 .md-typeset .highlight .ss {
-  color: #b91c1c;
+  color: #8a4f8f;
 }
 
 .md-typeset .highlight .na,
@@ -353,7 +336,7 @@ body {
 .jp-card:hover {
   transform: translateY(-2px);
   box-shadow: 0 14px 30px rgba(17, 24, 39, 0.06);
-  border-color: rgba(220, 38, 38, 0.25);
+  border-color: rgba(87, 82, 163, 0.25);
 }
 
 .jp-card h3 {
@@ -414,7 +397,7 @@ body {
 }
 
 .md-sidebar__inner {
-  background: #ffffff;
+  background: var(--jp-surface);
   border: 1px solid var(--jp-border);
   border-radius: 1rem;
   box-shadow: 0 10px 24px rgba(17, 24, 39, 0.04);
@@ -444,7 +427,7 @@ body {
 }
 
 .md-nav__item .md-nav__link:hover {
-  background: #f3f4f6;
+  background: var(--jp-surface-strong);
 }
 
 .md-sidebar--secondary .md-sidebar__inner {
@@ -485,13 +468,4 @@ body {
     border-radius: 0.9rem;
   }
 
-  .md-tabs {
-    top: 0;
-  }
-
-  .md-header__title {
-    position: static;
-    transform: none;
-    pointer-events: auto;
-  }
 }

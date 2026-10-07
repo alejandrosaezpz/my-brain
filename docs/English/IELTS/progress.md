@@ -49,8 +49,14 @@ These are short, format-focused exercises rather than full test simulations. Res
 | Yes / No / Not Given | 5/5 | 2:39.64 |  |
 | Mixed short Reading practice | 10/10 | 4:53.54 |  |
 
+## Full Reading practice
+
+| Exercise | Result | Time | Notes |
+| --- | --- | --- | --- |
+| First three-passage Reading practice | 29/40 provisional (31/40 reported) | 60:19.71 | Passage scores reported as 12/13, 7/13, and 11/14 (these add to 30, not 31). Rechecking against the passages suggests Q27 should be C rather than B, which would make Passage 3 10/14 and the total 29/40; confirm against the answer key. Main errors: exact phrase/paraphrase matching in summary completion, matching a claim to the correct researcher, and distinguishing explicit evidence from related but unstated information in YES/NO/NOT GIVEN. |
+
 ### Provisional observations and next step
 
 The short exercises show promising accuracy, detail location, and distinction between contradiction and lack of information. Most practices were brief and designed to practise particular formats. Matching Headings has been practised, but there is no exact result to record. Alex initially questioned whether matching options could be reused; the practical rule agreed was to follow each task's instructions.
 
-A full timed Reading test has not yet been assessed. Do not assign a band or conclude that every skill is mastered from these short exercises. Next, Alex will complete a real Reading exercise from the page available to him. Review the result, total time, errors, and question types to identify patterns supported by evidence.
+The first three-passage timed Reading practice has now been assessed. Treat its score as provisional until the answer key resolves the discrepancy around Q27 and the reported total; do not infer a Reading band from one practice set. Next, focus on exact paraphrase matching in summary completion, matching claims to the right person, and evidence-based YES / NO / NOT GIVEN decisions.

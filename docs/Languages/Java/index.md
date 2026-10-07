@@ -33,8 +33,8 @@ All Java notes now live under this section.
     <p>Open the first pages in the sidebar for fundamentals and core structures.</p>
   </div>
   <div class="jp-card">
-    <h3>Back to Languages</h3>
-    <p>Go up one level to the language hub.</p>
+    <h3>Back to Programming</h3>
+    <p>Go up one level to the Programming hub.</p>
     <p><a href="../">Go back →</a></p>
   </div>
 </div>

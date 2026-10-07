@@ -14,16 +14,14 @@ theme:
     repo: fontawesome/brands/github
   palette:
     - scheme: default
-      primary: black
-      accent: red
+      primary: deep purple
+      accent: deep purple
   font:
     text: Inter
     code: JetBrains Mono
   features:
     - navigation.instant
     - navigation.instant.prefetch
-    - navigation.tabs
-    - navigation.sections
     - navigation.top
     - navigation.indexes
     - toc.follow
@@ -41,10 +39,10 @@ extra:
 
 nav:
   - Home: index.md
-  - Languages:
-      - Languages overview: Languages/index.md
+  - Programming:
+      - Languages/index.md
       - Java:
-          - Java overview: Languages/Java/index.md
+          - Languages/Java/index.md
           - 01. Java Basics: Languages/Java/01-java-basics.md
           - 02. Big O: Languages/Java/02-big-o.md
           - 03. Arrays: Languages/Java/03-arrays.md
@@ -71,7 +69,7 @@ nav:
           - 24. Java Interview Cheat Sheet: Languages/Java/24-java-interview-cheat-sheet.md
           - Complexity Cheat Sheet: Languages/Java/complexity-cheatsheet.md
       - JavaScript:
-          - JavaScript overview: Languages/JavaScript/index.md
+          - Languages/JavaScript/index.md
           - 01. Introduction: Languages/JavaScript/01-introduction.md
           - 02. Syntax & Fundamentals: Languages/JavaScript/02-syntax-fundamentals.md
           - 03. Arrays: Languages/JavaScript/03-arrays.md

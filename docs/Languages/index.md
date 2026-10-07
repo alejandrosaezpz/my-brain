@@ -1,10 +1,10 @@
-# Languages
+# Programming
 
 ## Overview
 
-This section groups notes by programming language.
+Open Java or JavaScript here, then choose a topic from its own section.
 
-## Current languages
+## Available languages
 
 <div class="jp-section jp-card-grid">
   <div class="jp-card">

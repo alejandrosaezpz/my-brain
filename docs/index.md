@@ -6,7 +6,7 @@
   </p>
 
   <div class="jp-actions">
-    <a class="jp-button jp-button--primary" href="Languages/">Browse Languages</a>
+    <a class="jp-button jp-button--primary" href="Languages/">Browse Programming</a>
     <a class="jp-button jp-button--secondary" href="Languages/Java/">Open Java</a>
     <a class="jp-button jp-button--secondary" href="Languages/JavaScript/">Open JavaScript</a>
     <a class="jp-button jp-button--secondary" href="English/">Open English</a>
@@ -43,13 +43,13 @@
 
 <div class="jp-section jp-card-grid">
   <div class="jp-card">
-    <h3>Languages</h3>
-    <p>Programming language notes and syntax references grouped by language.</p>
+    <h3>Programming</h3>
+    <p>Programming notes and syntax references grouped by language.</p>
     <p><a href="Languages/">Open section →</a></p>
   </div>
   <div class="jp-card">
     <h3>Java</h3>
-    <p>The main Java study track, organized inside Languages with a full topic tree on the left.</p>
+    <p>The main Java study track, organized inside Programming with a full topic tree on the left.</p>
     <p><a href="Languages/Java/">Open section →</a></p>
   </div>
   <div class="jp-card">
@@ -67,7 +67,7 @@
 ## How to use this brain
 
 1. Start at the home page.
-2. Open a global section such as **Languages** or **English**.
+2. Open a global section such as **Programming** or **English**.
 3. Use the left sidebar inside each area to move through its topic tree.
 4. Read the selected page on the right.
 
