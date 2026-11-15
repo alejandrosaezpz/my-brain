@@ -4,20 +4,10 @@
 
 - **Time:** 60 minutes for two tasks.
 - **Task 1:** Describe, summarise, or explain visual information in at least 150 words; allow about 20 minutes.
-- **Task 2:** Write an essay of at least 250 words; allow about 40 minutes. Task 2 contributes twice as much as Task 1.
+- **Task 2:** Write an essay of at least 250 words; allow about 40 minutes. Task 2 contributes twice as much as Task 1. My strategy: start with Task 2 (about 40 minutes), then complete Task 1 in the remaining 20 minutes.
 - **Assessment:** Task Achievement (Task 1) / Task Response (Task 2), Coherence and Cohesion, Lexical Resource, and Grammatical Range and Accuracy.
 
 Accuracy, clarity, and control matter more than forcing complicated vocabulary or grammar. See the official [Academic Writing format](https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-writing) and [Writing band descriptors](https://ielts.org/cdn/Guides/ielts-writing-band-descriptors.pdf).
-
-## General writing strategy
-
-1. Read the prompt carefully and identify exactly what it asks.
-2. Identify the task subtype and every command word or question part.
-3. Plan the answer before writing.
-4. Select the key features or ideas; do not try to include everything.
-5. Organise paragraphs so each has a clear purpose.
-6. Support claims with accurate data or explained examples.
-7. Leave a few minutes to proofread.
 
 ## Writing Task 1
 
@@ -44,7 +34,15 @@ Use the same basic structure for all task types; adapt grouping to the visual.
 - Preserve the meaning: do not force synonyms that change it.
 - State what is shown; include dates, locations and units when relevant.
 
-**Useful structures:** The chart illustrates... · The diagram shows... · The maps compare... · The figure provides information about... · The graph depicts changes in...
+**Useful structures:**
+
+| Expression | Function / Use |
+| --- | --- |
+| The chart illustrates... | Introduce a chart. |
+| The diagram shows... | Introduce a diagram. |
+| The maps compare... | Introduce a map comparison. |
+| The figure provides information about... | Introduce the subject of a visual. |
+| The graph depicts changes in... | Introduce changes shown in a graph. |
 
 **Paraphrase:** “The chart shows car sales” → “The chart illustrates the number of cars sold.”
 
@@ -54,7 +52,15 @@ Use the same basic structure for all task types; adapt grouping to the visual.
 - Avoid detailed figures, personal opinions and explanations not supported by the visual.
 - **Treat a clear overview as essential for a good score.** Do not just repeat the introduction.
 
-**Useful structures:** Overall, it is clear that... · Overall, the most noticeable feature is... · In general, ... whereas... · The most significant change is... · While X increased, Y decreased...
+**Useful structures:**
+
+| Expression | Function / Use |
+| --- | --- |
+| Overall, it is clear that... | Introduce the main picture. |
+| Overall, the most noticeable feature is... | Highlight the main feature. |
+| In general, ... whereas... | Contrast main features. |
+| The most significant change is... | Highlight the main change. |
+| While X increased, Y decreased... | Contrast opposite trends. |
 
 #### Body Paragraphs — Specific details
 
@@ -63,7 +69,20 @@ Use the same basic structure for all task types; adapt grouping to the visual.
 - Group logically; compare directly where relevant rather than describing visuals separately.
 - Include important peaks, lows, stages, changes or exceptions. Avoid repetition.
 
-**Useful links:** Looking first at... · Regarding... · By contrast, ... · Meanwhile, ... · Similarly, ... · Compared with/to... · Whereas... · This was followed by... · Subsequently, ... · Finally, ...
+**Useful links:**
+
+| Expression | Function / Use |
+| --- | --- |
+| Looking first at... | Introduce the first group of details. |
+| Regarding... | Introduce a subject or category. |
+| By contrast, ... | Highlight a difference. |
+| Meanwhile, ... | Describe a parallel trend or action. |
+| Similarly, ... | Highlight a similarity. |
+| Compared with/to... | Compare figures or features. |
+| Whereas... | Contrast two facts. |
+| This was followed by... | Introduce the next stage or change. |
+| Subsequently, ... | Describe what happened next. |
+| Finally, ... | Introduce the last stage or detail. |
 
 | Part | Include |
 | --- | --- |
@@ -159,16 +178,6 @@ Group details by area or type of change. Compare maps directly; do not invent a 
 | **Comparison** | Previously, the area contained...; By [year], X had been replaced by Y; While X remained unchanged, Y was...; The most noticeable change was...; The area changed from... to...; X remained in the same location. |
 
 **Tenses:** past simple = completed past changes; present simple = current features; future forms/passive = proposals or predictions (*X is planned / will be built*). Use past perfect only to place a past change before another past reference point.
-
-### Final Checklist
-
-- [ ] Introduction paraphrases the task.
-- [ ] Clear overview with main features.
-- [ ] Relevant details selected and grouped.
-- [ ] Comparisons included where appropriate.
-- [ ] Correct tense, grammar and units.
-- [ ] At least 150 words.
-- [ ] Spelling and factual accuracy checked.
 
 <a id="task-2"></a>
 
@@ -274,27 +283,11 @@ Plan each body paragraph around:
 
 #### Step 5 — Review and correct
 
-Reserve **about 5 minutes**, or 5–10 minutes if time management allows, within the 40-minute allocation.
+Reserve about 5 minutes within the 40-minute allocation.
 
-- [ ] Have I answered every part of the question?
-- [ ] Is my position clear and consistent where required?
-- [ ] Does every body paragraph have one central idea?
-- [ ] Have I explained and supported my arguments?
-- [ ] Is the essay at least 250 words?
-- [ ] Have I checked grammar, spelling, articles, verb agreement and punctuation?
+<a id="6-useful-structures-linking-words"></a>
 
-### 5. Writing Tips & Tricks
-
-- [ ] Focus: exact question answered; instructions/keywords underlined; ideas brainstormed.
-- [ ] Development: strong arguments, not a long list; one idea per paragraph; flexible PEEL; consistent position where required.
-- [ ] Language: accuracy before complexity; a controlled mix of simple and complex sentences.
-- [ ] Register: avoid contractions; choose natural collocations, not fancy vocabulary; paraphrase without replacing every word.
-- [ ] Evidence: use relevant examples from knowledge or experience; do not invent statistics, studies or sources.
-- [ ] Delivery: avoid memorised templates and excessive linkers; leave time to review.
-
-There is **no fixed maximum word limit**. Writing far beyond 250 words offers no automatic benefit if it reduces accuracy, relevance or checking time.
-
-### 6. Useful Structures & Linking Words
+### 5. Useful Structures & Linking Words
 
 Choose by function, not variety alone. For sentence connectors, use a full stop or semicolon before them: “Costs rose. However, demand fell.” **However = contrast; therefore = consequence.** Do not join two full sentences with only a comma.
 
@@ -427,18 +420,6 @@ Avoid beginning every sentence with a connector. Pronouns and repeated key terms
 - **Collocations:** *make a decision, pose a risk, conduct research, play a role, address a problem*.
 - **Register:** prefer *children* to *kids*, *purchase* only where natural, and *people* rather than inflated substitutes such as *individuals* in every sentence.
 - **Precision:** do not use a thesaurus synonym if it changes the meaning or collocation.
-
-## Final proofreading checklist
-
-- [ ] I answered every question and command word.
-- [ ] My overview (Task 1) or position/thesis (Task 2) is clear.
-- [ ] Each paragraph has one main purpose and progresses logically.
-- [ ] Task 1 values, dates, units, comparisons, locations, and sequence are accurate.
-- [ ] Task 2 ideas are explained and examples support the point.
-- [ ] I used cautious language for uncertain claims and direct language for clear data.
-- [ ] I checked verb tense, subject–verb agreement, articles, plurals, punctuation, and spelling.
-- [ ] My vocabulary is precise and natural; I did not force memorised phrases.
-- [ ] I met the minimum word count and used connected prose.
 
 ## Official references
 
