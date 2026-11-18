@@ -36,38 +36,92 @@ En inglés casi siempre necesitas sujeto: ~~Is important to reduce pollution.~~ 
 | --- | --- | --- | --- |
 | Present simple | I/you/we/they + verb; he/she/it + verb-s | Hechos generales, rutinas y opiniones. | Education plays a key role in social mobility. |
 | Present continuous | am/is/are + verb-ing | Acciones en progreso, cambios actuales o temporales. | More people are choosing to work remotely. |
-| Past simple | subject + verb-ed / irregular | Acciones terminadas en el pasado. | I visited Rome last summer. |
+| Past simple | subject + verb-ed / irregular | **Acciones ya terminadas en un momento pasado concreto:** yesterday, last week/month/year, in 2019, two days ago, when I was... | I visited Rome last summer. No: ~~I have visited Rome last summer.~~ |
 | Past continuous | was/were + verb-ing | Acción en progreso en un momento pasado. | The number of users was increasing steadily during this period. |
-| Present perfect | have/has + past participle | Experiencia, resultado presente o pasado conectado con el presente. | Technology has transformed the way people communicate. |
+| Present perfect | have/has + past participle | **Experiencia hasta ahora, resultado presente o periodo no terminado:** ever, never, already, yet, still, since, for, so far, recently, lately, this week/month/year, over the last decade. | I have never been to Africa. / I have travelled to three countries this year. Experiencia + detalle pasado: I have been to Paris three times. I went there last year. |
 | Present perfect continuous | have/has been + verb-ing | Acción iniciada antes que continúa o tiene efecto ahora; enfatiza duración/proceso. | Governments have been trying to limit plastic consumption. |
 | Past perfect | had + past participle | Acción anterior a otra acción o punto pasado. | After the policy had been implemented, emissions fell. |
 | Past perfect continuous | had been + verb-ing | Proceso anterior a un punto pasado. | The population had been growing for years before it stabilised. |
 
-- **Present simple:** negativa `do/does not + verb`; pregunta `Do/Does + subject + verb?`
-- **Past simple:** negativa `did not + infinitive`.
-- **Past continuous como contexto:** While car use was rising, bicycle use remained stable.
-- Normalmente no uses continuous con **know, believe, understand, own, seem, prefer**: *I believe*, no ~~I am believing~~.
-- **Past perfect:** after, before y by the time ayudan a expresar la secuencia temporal.
+#### Present simple
 
-### Past simple vs present perfect
+Describe hechos generales, rutinas y opiniones. Con he/she/it, el verbo afirmativo lleva -s; después de does, vuelve a la forma base.
 
-| Tiempo | Referencia temporal | Ejemplos |
+| Forma | Estructura | Ejemplo |
 | --- | --- | --- |
-| Past simple | Tiempo terminado: yesterday, last week/month/year, in 2019, two days ago, when I was... | I visited Rome last summer. No: ~~I have visited Rome last summer.~~ |
-| Present perfect | Experiencia hasta ahora, resultado presente o periodo no terminado: ever, never, already, yet, still, since, for, so far, recently, lately, this week/month/year, over the last decade. | I have never been to Africa. / I have travelled to three countries this year. |
+| Afirmativa | Subject + verb / verb-s | She works from home. |
+| Negativa | Subject + do/does not + verb | She does not work from home. |
+| Pregunta | Do/Does + subject + verb? | Does she work from home? |
 
-**Experiencia + detalle concreto:** I have been to Paris three times. I went there last year.
+#### Present continuous
 
-### For / since / how long / when
+Describe una acción en progreso o una situación temporal en el presente.
 
-| Elemento | Uso | Ejemplo |
+| Forma | Estructura | Ejemplo |
 | --- | --- | --- |
-| for + period of time | Duración total. | I have studied English for three years. |
-| since + starting point | Punto de inicio. | I have studied English since 2020. |
-| How long + have/has + subject + past participle? | Preguntar por duración hasta ahora. | How long have you lived in Madrid? |
-| When + past simple? | Preguntar por un momento pasado concreto. | When did you move to Madrid? |
+| Afirmativa | Subject + am/is/are + verb-ing | She is working from home today. |
+| Negativa | Subject + am/is/are not + verb-ing | She is not working from home today. |
+| Pregunta | Am/Is/Are + subject + verb-ing? | Is she working from home today? |
 
-Si la situación continúa hasta ahora, usa present perfect con for/since/how long. No: ~~for 2020~~, ~~since three years~~, ~~When have you moved?~~
+#### Past simple
+
+Describe una acción terminada en un momento pasado concreto. En negativas y preguntas, did lleva la marca de pasado y el verbo vuelve a la forma base.
+
+| Forma | Estructura | Ejemplo |
+| --- | --- | --- |
+| Afirmativa | Subject + verb-ed / irregular past | She visited Rome last summer. |
+| Negativa | Subject + did not + verb | She did not visit Rome last summer. |
+| Pregunta | Did + subject + verb? | Did she visit Rome last summer? |
+
+#### Past continuous
+
+Describe una acción que estaba en progreso en un momento pasado; puede servir de contexto para otro evento.
+
+| Forma | Estructura | Ejemplo |
+| --- | --- | --- |
+| Afirmativa | Subject + was/were + verb-ing | She was working when I called. |
+| Negativa | Subject + was/were not + verb-ing | She was not working when I called. |
+| Pregunta | Was/Were + subject + verb-ing? | Was she working when I called? |
+
+#### Present perfect
+
+Conecta el pasado con el presente: experiencia hasta ahora, resultado actual o periodo todavía abierto. No sitúa la acción en un momento pasado terminado.
+
+| Forma | Estructura | Ejemplo |
+| --- | --- | --- |
+| Afirmativa | Subject + have/has + past participle | She has finished the report. |
+| Negativa | Subject + have/has not + past participle | She has not finished the report. |
+| Pregunta | Have/Has + subject + past participle? | Has she finished the report? |
+
+#### Present perfect continuous
+
+Enfatiza la duración o el proceso de una acción iniciada antes que continúa o tiene un efecto ahora.
+
+| Forma | Estructura | Ejemplo |
+| --- | --- | --- |
+| Afirmativa | Subject + have/has been + verb-ing | She has been studying for two hours. |
+| Negativa | Subject + have/has not been + verb-ing | She has not been studying for two hours. |
+| Pregunta | Have/Has + subject + been + verb-ing? | Has she been studying for two hours? |
+
+#### Past perfect
+
+Describe una acción que ya había ocurrido antes de otra acción o punto de referencia pasado.
+
+| Forma | Estructura | Ejemplo |
+| --- | --- | --- |
+| Afirmativa | Subject + had + past participle | She had left before I arrived. |
+| Negativa | Subject + had not + past participle | She had not left before I arrived. |
+| Pregunta | Had + subject + past participle? | Had she left before I arrived? |
+
+#### Past perfect continuous
+
+Enfatiza la duración de una actividad que estaba en progreso antes de otro momento pasado.
+
+| Forma | Estructura | Ejemplo |
+| --- | --- | --- |
+| Afirmativa | Subject + had been + verb-ing | She had been working for two hours when I arrived. |
+| Negativa | Subject + had not been + verb-ing | She had not been working for two hours when I arrived. |
+| Pregunta | Had + subject + been + verb-ing? | Had she been working for two hours when I arrived? |
 
 ### Future forms
 
@@ -79,6 +133,17 @@ Si la situación continúa hasta ahora, usa present perfect con for/since/how lo
 | Present simple | Horarios oficiales. | The course starts in September. |
 | Future continuous: will be + verb-ing | Acción en progreso en un momento futuro. | More people will be working from home in the future. |
 | Future perfect: will have + past participle | Algo terminado antes de un momento futuro. | By 2030, many companies will have adopted AI tools. |
+
+### For / since / how long / when
+
+| Elemento | Uso | Ejemplo |
+| --- | --- | --- |
+| for + period of time | Duración total. | I have studied English for three years. |
+| since + starting point | Punto de inicio. | I have studied English since 2020. |
+| How long + have/has + subject + past participle? | Preguntar por duración hasta ahora. | How long have you lived in Madrid? |
+| When + past simple? | Preguntar por un momento pasado concreto. | When did you move to Madrid? |
+
+Si la situación continúa hasta ahora, usa present perfect con for/since/how long. No: ~~for 2020~~, ~~since three years~~, ~~When have you moved?~~
 
 ## Modal verbs y probabilidad
 
